@@ -2,7 +2,7 @@
 
 **QBlog** is a blog base on Python + Django .   
 In a few minutes you'll be set up with a minimal, responsive blog like the one below !  
-![1](https://x-content.oss-cn-hangzhou.aliyuncs.com/Product/QBlog/website/1.png)  
+![1](https://github.com/byname1234/QBlog/blob/main/docs/1.png)  
 
 ## Quick Start  
 
