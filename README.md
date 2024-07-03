@@ -87,8 +87,8 @@ For example, set username 'admin' and password '123456'.
 
 Then access http://127.0.0.1:8080/admin, type the username and password to login : 
 ![2](https://github.com/byname1234/QBlog/blob/main/docs/2.png)
-![3](/QBlog/raw/master/docs/3.png)
+![3](https://github.com/byname1234/QBlog/blob/main/docs/3.png)
 
 ## Questions?
 
-[Open an Issue](/QBlog/issues) and let's chat! 
+[Open an Issue](https://github.com/byname1234/QBlog/issues) and let's chat! 
