@@ -8,7 +8,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ### Step 1) Clone repository  
 ```
-git clone https://gitee.com/hardcore-newbie/QBlog.git
+git clone https://github.com/byname1234/QBlog.git
 ```
 
 ### Step 2) Environmental preparations  
